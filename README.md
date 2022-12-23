@@ -79,7 +79,7 @@ Here are some ideas to get you started:
  <a href="https://twitter.com/s08prashant">
   <img align="center" alt="Prashant's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/prashant-singh-08/">
+<a href="https://www.linkedin.com/in/josemauricioromeromoreno/">
   <img align="center" alt="Prashant's's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/singh08prashant">
