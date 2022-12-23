@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Maitomanito/Maitomanito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... freelancer
@@ -13,4 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://www.linkedin.com/in/josemauricioromeromoreno/
 - 😄 Pronouns: ...Maito 
 - ⚡ Fun fact: ... mucha musika
--->
+-->![About Me](https://raw.githubusercontent.com/mauricioromero/mauricio-romero/master/bio.gif)
+
+---
+⭐️ From [Mauricio Romero](https://github.com/mauricio-romero)
