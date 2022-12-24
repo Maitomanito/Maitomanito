@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 ### 📝 Latest articles from [dev.to](https://dev.to/maitomanito)
 
-* Jul 11 2020 [Building & Deploying an Image Classification Web App with GCP AutoML Vision Edge, Tensorflow.js & GCP App Engine](https://dev.to/singh08prashant/building-deploying-an-image-classification-web-app-with-gcp-automl-vision-edge-tensorflow-js-gcp-app-engine-57gb) 
+//* Jul 11 2020 [Building & Deploying an Image Classification Web App with GCP AutoML Vision Edge, Tensorflow.js & GCP App Engine]//(https://dev.to/singh08prashant/building-deploying-an-image-classification-web-app-with-gcp-automl-vision-edge-tensorflow-js-gcp-app-engine-57gb) 
 
 <p align = "center">
  <a href="https://twitter.com/">
